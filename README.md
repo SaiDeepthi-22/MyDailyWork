@@ -51,25 +51,17 @@ This makes the AI play perfectly.
 
 ---
 
-##  How to Run
+## ▶️ How to Run
 
 ### 1) Clone the repository
 ```bash
 git clone https://github.com/SaiDeepthi-22/MyDailyWork.git
-```bash
-### 2) Navigate to the project folder
-```bash
 cd MyDailyWork/TASK-2_TIC_TAC_TOE_AI
-```bash
-3) Run the program
 python main.py
-```bash
-### Notes
+Notes
 
 Ensure Python is installed and added to PATH.
 
-This project is created for learning game AI and search algorithms.
-
-### Author
+This project is created for learning game AI and search algorithms. Author
 
 Samatham Sai Deepthi
