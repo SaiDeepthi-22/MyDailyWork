@@ -52,12 +52,17 @@ This makes the AI play perfectly.
 ---
 
 ##  How to Run
+
 1) Clone the repository
-- git clone https://github.com/SaiDeepthi-22/MyDailyWork.git
+```bash
+git clone https://github.com/SaiDeepthi-22/MyDailyWork.git
 2) Navigate to the project folder
-- cd MyDailyWork/TASK-2_TIC_TAC_TOE_AI
+```bash
+cd MyDailyWork/TASK-2_TIC_TAC_TOE_AI
 3) Run the program
+```bash
 python main.py
+```
 ## Notes
 
 Ensure Python is installed and added to PATH.
