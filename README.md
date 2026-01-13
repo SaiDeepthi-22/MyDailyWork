@@ -63,7 +63,3 @@ python main.py
 Ensure Python is installed and added to PATH.
 
 This project is created for learning game AI and search algorithms.
-
-## Author
-
-Samatham Sai Deepthi
