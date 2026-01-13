@@ -53,9 +53,9 @@ This makes the AI play perfectly.
 
 ##  How to Run
 1) Clone the repository
-git clone https://github.com/SaiDeepthi-22/MyDailyWork.git
+- git clone https://github.com/SaiDeepthi-22/MyDailyWork.git
 2) Navigate to the project folder
-cd MyDailyWork/TASK-2_TIC_TAC_TOE_AI
+- cd MyDailyWork/TASK-2_TIC_TAC_TOE_AI
 3) Run the program
 python main.py
 ## Notes
