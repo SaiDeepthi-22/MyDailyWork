@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # MyDailyWork
 =======
-# Tic Tac Toe AI (Minimax Algorithm) - OOPS in Python
+# Tic Tac Toe AI (Minimax Algorithm)
 This project is a **Tic Tac Toe game** where:
 - Human plays as **X**
 - AI plays as **O**
