@@ -30,6 +30,6 @@ Minimax is an AI algorithm that checks **all possible future moves** and chooses
    git clone https://github.com/SaiDeepthi-22/MyDailyWork
 >>>>>>> b6ec6b1 (Updated tasks)
 Go to the project folder:
-cd TASK2_TicTacToeAI
+cd TASK2_Tic_Tac_Toe_AI
 Run the python file:
 python main.py
