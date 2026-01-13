@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyDailyWork
 =======
 # Tic Tac Toe AI (Minimax Algorithm)
@@ -28,7 +27,6 @@ Minimax is an AI algorithm that checks **all possible future moves** and chooses
 1. Clone the repository:
    ```bash
    git clone https://github.com/SaiDeepthi-22/MyDailyWork
->>>>>>> b6ec6b1 (Updated tasks)
 Go to the project folder:
 cd TASK2_Tic_Tac_Toe_AI
 Run the python file:
