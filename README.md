@@ -1,33 +1,78 @@
 # MyDailyWork
-=======
-# Tic Tac Toe AI (Minimax Algorithm)
-This project is a **Tic Tac Toe game** where:
-- Human plays as **X**
-- AI plays as **O**
-- AI is **unbeatable** using the **Minimax Algorithm**
-The entire code is written using **OOPS (Object-Oriented Programming)** in Python.
-## Features
+
+This repository contains my daily/weekly practice tasks and mini-projects as part of my learning journey in **AI/ML and Software Development**.
+
+---
+
+## ✅ Task-2: Tic Tac Toe AI (Minimax Algorithm)
+
+A classic **Tic Tac Toe** game where you play against an **unbeatable AI** built using the **Minimax Algorithm**.  
+The project is implemented using **Object-Oriented Programming (OOP)** in **Python**.
+
+---
+
+## 🎯 Project Overview
+
+- Human player: **X**
+- AI player: **O**
+- AI plays optimally using **Minimax**, meaning it will:
+  ✅ Win if possible  
+  ✅ Otherwise force a draw  
+  ❌ Never lose
+
+---
+
+## ✨ Features
+
 - 3×3 Tic Tac Toe board
 - Human vs AI gameplay
-- AI uses **Minimax** (perfect decision-making)
-- Game checks:
+- Unbeatable AI using **Minimax**
+- Valid move checking
+- Game outcome detection:
   - Winner
   - Draw
-  - Valid moves
-## What is Minimax?
-Minimax is an AI algorithm that checks **all possible future moves** and chooses the best one.
-- AI tries to **maximize** score (+1)
-- Human tries to **minimize** score (-1)
-- Draw gives (0)
-## Technologies Used
-- Python 3
-- OOPS Concepts
-- Minimax Algorithm
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SaiDeepthi-22/MyDailyWork
-Go to the project folder:
-cd TASK2_Tic_Tac_Toe_AI
-- Run the python file:
-- python main.py
+  - Ongoing game status
+
+---
+
+## 🧠 What is Minimax?
+
+**Minimax** is a decision-making algorithm used in turn-based games.  
+It explores all possible future moves and selects the best move by assuming:
+
+- AI tries to **maximize** the score (+1)
+- Human tries to **minimize** the score (-1)
+- Draw = 0
+
+This makes the AI play perfectly.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **OOP Concepts**
+- **Minimax Algorithm**
+
+---
+
+## ▶️ How to Run
+
+### 1) Clone the repository
+```bash
+git clone https://github.com/SaiDeepthi-22/MyDailyWork.git
+2) Navigate to the project folder
+cd MyDailyWork/TASK-2_TIC_TAC_TOE_AI
+
+3) Run the program
+python main.py
+
+Notes
+
+Ensure Python is installed and added to PATH.
+
+This project is created for learning game AI and search algorithms.
+
+👩‍💻 Author
+
+Samatham Sai Deepthi
